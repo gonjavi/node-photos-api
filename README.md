@@ -1,4 +1,4 @@
-# node-photos-api
+# Node-Photos-API
 
 This is a public API that allows crud actions for mobile phones. The propject was built with Node.js and deployed on Heroku.
 
