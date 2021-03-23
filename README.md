@@ -15,7 +15,7 @@ user endpoints
 ![screenshot](./img/json.png) 
 
 
-You can download the file inside the folder postman_collection and import it in postman to test the API. You can set the local variable as url, with initial and current value = http://localhost:3000, and to test production initial and current value should be = https://node-mobile-api.herokuapp.com
+You can download the file inside the folder postman_collection and import it in postman to test the API. You can set the local variable as url, with initial and current value = http://localhost:3000, and to test production initial and current value should be = https://node-photos-api.herokuapp.com/
 
 ## Built With
 
